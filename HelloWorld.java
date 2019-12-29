@@ -4,5 +4,9 @@ public class HelloWorld {
         System.out.println("Hello");
         System.out.println("222");
         System.out.println("1111");
+		System.out.println("222");
+        System.out.println("Hello World");
+		System.out.println("1111");
+        System.out.println("Hello");
     }
 }
